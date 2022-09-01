@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap01EX/chap01EX.iml" filepath="$PROJECT_DIR$/chap01EX/chap01EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02EX/chap02EX.iml" filepath="$PROJECT_DIR$/chap02EX/chap02EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03EX/chap03EX.iml" filepath="$PROJECT_DIR$/chap03EX/chap03EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04EX/chap04EX.iml" filepath="$PROJECT_DIR$/chap04EX/chap04EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05EX/chap05EX.iml" filepath="$PROJECT_DIR$/chap05EX/chap05EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap07EX/chap07EX.iml" filepath="$PROJECT_DIR$/chap07EX/chap07EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap08EX/chap08EX.iml" filepath="$PROJECT_DIR$/chap08EX/chap08EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap09EX/chap09EX.iml" filepath="$PROJECT_DIR$/chap09EX/chap09EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap10EX/chap10EX.iml" filepath="$PROJECT_DIR$/chap10EX/chap10EX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/연습문제_예제소스.iml" filepath="$PROJECT_DIR$/연습문제_예제소스.iml" />
+    </modules>
+  </component>
+</project>
